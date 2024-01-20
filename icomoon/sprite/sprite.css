@@ -1,0 +1,76 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-clock {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-facebook {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-instagram {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-linkedin {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.icon-twitter {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-logo-3 {
+  width: 59px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.icon-logo-1 {
+  width: 59px;
+  height: 32px;
+  background-position: -336px 0;
+}
+.icon-logo-2 {
+  width: 59px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.icon-logo-4 {
+  width: 59px;
+  height: 32px;
+  background-position: -528px 0;
+}
+.icon-Logo-5 {
+  width: 59px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.icon-logo-6 {
+  width: 59px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.icon-antena {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.icon-astronaut {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+.icon-diagram {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+
