@@ -698,7 +698,8 @@ body {
 }
 
 .modal {
-  width: 408px;
+  max-width: 408px;
+  width: 90%;
   min-height: 584px;
   border-radius: 4px;
   background: var(--dairy);
@@ -916,13 +917,13 @@ body {
 }
 
 .mobile-socials {
-  display: flex;
   padding: 0 24px;
 }
 
 .socials-footer-icon-mobile {
   display: flex;
-  gap: 56px;
+  justify-content: space-between;
+  max-width: 328px;
 }
 
 .js-menu-container {
@@ -1034,6 +1035,7 @@ body {
   }
 
   .address {
+    padding: 0;
     display: flex;
     gap: 12px;
     flex-direction: column;
